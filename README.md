@@ -9,4 +9,4 @@ It was our job to come up with a way to make growing plants in a greenhouse eais
 
 For this project, we used an Arduino Micro Controller and a Raspberry Pi in a "master-slave" configuration. The Raspberry Pi connected to the database and pulled the data needed to set the thresholds for the sensors. It then relayed the data to the Arduino which used it to control the functionality of the actuator.
 
-The 
+The **Final Presentation Slides** provide a more indept explanation and overview of our project. Also, at the very end, there is a short youtube video which shows the greenhouse itself, the smart system and the Andriod app.
